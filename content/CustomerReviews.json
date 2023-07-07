@@ -1,0 +1,94 @@
+{
+    "reviews": [
+        {
+            "key": 1,
+            "name": "Viggo M.",
+            "date": "24/05/2023",
+            "rate": 4,
+            "message": "Enerfip avance à Grand Pas dans ce secteur et est devenue une belle Communauté. Va-t-elle conquérir le continent ? Bientôt nous le Saurons.",
+            "source": "trustpilot",
+            "url": "#"
+        },
+        {
+            "key": 2,
+            "name": "Keanu R.",
+            "date": "24/05/2023",
+            "rate": 5,
+            "message": "Enerfip a une excellente maîtrise de la matrice des risques, je les suis sur tous leurs placements comme le lapin blanc.",
+            "source": "trustpilot",
+            "url": "#"
+        },
+        {
+            "key": 3,
+            "name": "Tom H.",
+            "date": "24/05/2023",
+            "rate": 5,
+            "message": "Beaucoup de choses m’ont manqué quand j’étais sur cette île avec Wilson, mais peu autant qu’investir sur Enerfip.",
+            "source": "trustpilot",
+            "url": "#"
+        },
+        {
+            "key": 4,
+            "name": "George C.",
+            "date": "24/05/2023",
+            "rate": 5,
+            "message": "J’adore trois choses : l’acting, un bon Ristretto et, Enerfip bien évidemment. J’ai pu diversifier mon portefeuille et j’en suis ravi. Service client impeccable. What Else?",
+            "source": "trustpilot",
+            "url": "#"
+        },
+        {
+            "key": 5,
+            "name": "Cate B.",
+            "date": "24/05/2023",
+            "rate": 5,
+            "message": "Fervente activiste, j’ai été ravie de revenir sur le continent et de voir que la finance se réveille. Le monde va changer, je le vois dans Enerfip !",
+            "source": "trustpilot",
+            "url": "#"
+        },
+        {
+            "key": 6,
+            "name": "Michael G.",
+            "date": "24/05/2023",
+            "rate": 3,
+            "message": "Grâce à Enerfip, il n’y a plus besoin de choisir entre le Bien et la Facilité, car il est devenu facile d’investir pour le bien.",
+            "source": "trustpilot",
+            "url": "#"
+        },
+        {
+            "key": 7,
+            "name": "Jim C.",
+            "date": "24/05/2023",
+            "rate": 4,
+            "message": "S’il y a quelque chose que j’aurais peur d’oublier si je me faisais effacer la mémoire, c’est bien la plateforme Enerfip ! Rien n’est Maské, un pingouin pourrait investir, je dis OUI !",
+            "source": "trustpilot",
+            "url": "#"
+        },
+        {
+            "key": 8,
+            "name": "Andy S.",
+            "date": "24/05/2023",
+            "rate": 3,
+            "message": "Un boite sans charnière, sans clef, sans couvercle. Pourtant un trésor doré est caché à l'intérieur..",
+            "source": "trustpilot",
+            "url": "#"
+        },
+        {
+            "key": 9,
+            "name": "Chris H.",
+            "date": "24/05/2023",
+            "rate": 4,
+            "message": "Fiable et solide, des Thor d'intérêts attractifs qui cassent la concurrence à coup de marteau.",
+            "source": "trustpilot",
+            "url": "#"
+        },
+        {
+            "key": 10,
+            "name": "Ryan R.",
+            "date": "24/05/2023",
+            "rate": 4,
+            "message": "Avec mes économies de fourmis, j'ai pu réaliser des gains très intéressants. Je suis ravi d'être un Free Guy des produits d'épargne classiques.",
+            "source": "trustpilot",
+            "url": "#"
+        }
+    ]
+}
